@@ -12,11 +12,10 @@ Positive reviews are **descriptive** and focus more on **storytelling and emotio
 This project will not use any **advanced NLP or ML** algorithms. This project is a data analysis exercise, so only descriptive analysis is performed.
 
 ## **Data Structure**
+We will be using dataset from Andrew Maas' publication of 50.000 highly polar IMDB movie reviews which can be found [here.](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 | Review | Sentiment | 
 |---|---|
 | Complete paragraphs of user-written movie reviews | Positive/Negative |
-
-Data can be found [here!](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 
 ## Project Scope
 1. Text preprocessing (cleaning, tokenization, lemmatization)
