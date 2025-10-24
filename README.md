@@ -1,6 +1,8 @@
 # **🎬 IMDB Movie Review Sentiment Analysis**
 This project aims to perform a descriptive sentiment analysis on 50000 movie review data from IMDB to understand the linguistic patterns of a positive or negative film review.
 
+📰 Our short medium post about this project can be found [here!](https://medium.com/@mariqfauzan/what-actually-makes-a-good-and-a-bad-movie-let-50-000-reviews-explain-97eeed775407)
+
 ## **Objectives**
 1. Identify the most common **words** and **phrases** present in positive or negative reviews. 
 2. Analyze the correlation between **review length and sentiment**. 
